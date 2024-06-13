@@ -1,0 +1,8 @@
+[package]
+name = "cli_calc"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
+clap = "3.0.0"
+
